@@ -11,9 +11,13 @@ This project demonstrates a simple **enterprise-style application architecture**
 
 # 🏗️ Architecture Overview
 User (Browser)
+
 ↓
+
 Frontend (GUI) - 172.20.2.35
-↓ HTTP Requests
+
+↓ HTTP Requests 
+
 Backend API - 172.20.2.18
 
 
